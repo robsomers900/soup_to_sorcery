@@ -6,9 +6,6 @@ This GitHub repository contains a Jupyter Notebook project focused on text class
 - HTML data was scraped using BeautifulSoup to obtain information on books, movies, and music.
 - The structure of the HTML data was analyzed to gain clarity.
 
-## Functionality
-- The project introduces a function called `scrape_page` that extracts relevant data and returns it as a list of dictionaries, each representing an article with keys: title, category, and snippet.
-
 ## Binary Text Classification
 - Binary classification is performed on the Books and Films category pairing.
 - The process is generalized by creating functions for efficient classification on multiple category pairs.
